@@ -2,7 +2,7 @@
 
 ## Tecnologias Utilizadas
 
-[Bruno](https://www.usebruno.com/) - Cliente HTTP para desenvolver e testar rotas
+[Bruno](https://www.usebruno.com/) - Cliente fictício HTTP para desenvolver e testar rotas
 
 [Spring Boot 3](https://start.spring.io/) - Framework Java para Backend
 
