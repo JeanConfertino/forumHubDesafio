@@ -1,0 +1,21 @@
+meta {
+  name: Mark Solution
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:8080/replies/1/solution
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{admin_token}}
+}
+
+body:json {
+  {
+    "solution": true
+  }
+}
